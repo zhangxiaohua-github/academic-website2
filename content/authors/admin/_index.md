@@ -3,11 +3,11 @@
 title: 张鹏
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jung Peng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peng
+last_name: Zhang
 
 # Status emoji
 status:
