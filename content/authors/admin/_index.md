@@ -118,47 +118,47 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Programming Languages:
-    items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: devicon/python
-      - name: MATLAB
-        description: ''
-        percent: 60
-        icon: devicon/matlab
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-      - name: C/C++
-        description: ''
-        percent: 40
-        icon: devicon/cpp
-  - name: Tools:
-    # color: '#eeac02'
-    # color_border: '#f0bf23'
-    items:
-      - name: Google Earth Engine (GEE)
-        description: 'Familiar with GEE data processing process (proficient in employing GEE to process a variety of remote sensing data)'
-      - name: GNSS-IR
-        description: 'Familiar with GNSS-IR'
-      - name: ENVI, ArcGIS, QGIS, SARscape, Apache Doris, StamPS
-        description: 'Proficient in using these platforms to process optical or microwave remote sensing data.'
-  - name: Models/Methods/Professional Skills:
-    # color: '#eeac02'
-    # color_border: '#f0bf23'
-    items:
-      - name: RS image processing
-        description: 'Multi-source and remote sensing image processing: proficient in processing optical remote sensing images and SAR images.)'
-      - name: InSAR technique
-        description: 'PS-InSAR, SBAS-InSAR'
-      - name: Permafrost models
-        description: ' TTOP model, Stefan model, seasonal and interannual deformation decomposition model, late season settlement model, ALT estimation through InSAR.'
-      - name: SAR Echo Signal Simulation and Imaging
-        description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging..'   
+# skills:
+#   - name: Programming Languages:
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 100
+#         icon: devicon/python
+#       - name: MATLAB
+#         description: ''
+#         percent: 60
+#         icon: devicon/matlab
+#       - name: PyTorch
+#         description: ''
+#         percent: 40
+#         icon: devicon/pytorch
+#       - name: C/C++
+#         description: ''
+#         percent: 40
+#         icon: devicon/cpp
+#   - name: Tools:
+#     # color: '#eeac02'
+#     # color_border: '#f0bf23'
+#     items:
+#       - name: Google Earth Engine (GEE)
+#         description: 'Familiar with GEE data processing process (proficient in employing GEE to process a variety of remote sensing data)'
+#       - name: GNSS-IR
+#         description: 'Familiar with GNSS-IR'
+#       - name: ENVI, ArcGIS, QGIS, SARscape, Apache Doris, StamPS
+#         description: 'Proficient in using these platforms to process optical or microwave remote sensing data.'
+#   - name: Models/Methods/Professional Skills:
+#     # color: '#eeac02'
+#     # color_border: '#f0bf23'
+#     items:
+#       - name: RS image processing
+#         description: 'Multi-source and remote sensing image processing: proficient in processing optical remote sensing images and SAR images.)'
+#       - name: InSAR technique
+#         description: 'PS-InSAR, SBAS-InSAR'
+#       - name: Permafrost models
+#         description: ' TTOP model, Stefan model, seasonal and interannual deformation decomposition model, late season settlement model, ALT estimation through InSAR.'
+#       - name: SAR Echo Signal Simulation and Imaging
+#         description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging..'   
 
 # Awards.
 #   Add/remove as many awards below as you like.
