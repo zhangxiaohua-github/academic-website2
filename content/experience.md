@@ -17,7 +17,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: ture
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -28,8 +28,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-research experience
-    content:
-      title: Research Experience
-      username: admin
+  # - block: resume-research experience
+  #   content:
+  #     title: Research Experience
+  #     username: admin
 ---
